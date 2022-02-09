@@ -1,1 +1,1 @@
-These are some of my Leetcode Practices for Competitive Programming
+These are solutions for some competitive programming problems written either using python or c++
